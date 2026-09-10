@@ -13,7 +13,7 @@
 ---
 
 - 📂**Проекты**: [Portfolio](https://github.com/StefashovaLiudmila/Portfolio.git) 
-- **Резюме**: [открыть на hh.ru](https://hh.ru/resume/6d691d86ff111605eb0039ed1f527076697077)
-- **Telegram**: [@Liudmila_sss](https://t.me/Liudmila_sss)
+- 📌**Резюме**: [открыть на hh.ru](https://hh.ru/resume/6d691d86ff111605eb0039ed1f527076697077)
+- 📬**Telegram**: [@Liudmila_sss](https://t.me/Liudmila_sss)
 
 
